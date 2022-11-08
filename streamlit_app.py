@@ -2,6 +2,6 @@ import streamlit
 
 streamlit.title('New diner')
 streamlit.header('Breakfast Menu')
-streamlit.text("Omega & Bluebryy Oatmeal")
-streamlit.text("Kale Smoothie")
-streamlit.text("Free-range Egg")
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
